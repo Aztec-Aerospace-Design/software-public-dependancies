@@ -1,0 +1,8 @@
+{
+  "app_name": "AAD Project Planner",
+  "version": "1.0.2",
+  "installer_filename": "AAD_Project_Planner_v1.0.2_Installer.exe",
+  "installer_url": "https://raw.githubusercontent.com/Aztec-Aerospace-Design/software-public-dependancies/main/AAD%20Project%20Planner/AAD_Project_Planner_v1.0.2_Installer.exe",
+  "sha256": "96e1a07bbae1880b879785e33f677c30aacfba07010e376ee6014a2cc7ed1410",
+  "notes": "AAD Project Planner v1.0.2"
+}
